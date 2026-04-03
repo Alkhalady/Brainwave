@@ -18,11 +18,11 @@ header{
           display: flex;
           justify-content: space-between;
           align-items: center;
-          gap: 400px;
+          gap: 200px;
 }
 span{
-  font-weight: 12px;
-  font-size: bold;
+  font-weight: bold;
+  font-size: 15px;
 }
 
 nav ul{
@@ -40,3 +40,10 @@ a{
     text-decoration: none;
     color: #161C2D;
 }
+
+.header-btns{
+    font-size: 12px;
+}
+
+
+@media 
